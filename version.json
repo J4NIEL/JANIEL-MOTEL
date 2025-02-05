@@ -1,10 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "changelog": [
-    "Initial release",
-    "Added auto-renewal system",
-    "Added boss management system"
+    "🎉 Test güncelleme mesajı",
+    "✨ Yeni özellikler eklendi",
+    "🐛 Bazı hatalar düzeltildi",
+    "⚡ Performans iyileştirmeleri yapıldı"
   ],
   "required_update": false,
-  "download_url": "https://github.com/JANIEL-MOTEL/motel/releases/download/v1.0.0/janiel-motel.zip"
+  "download_url": "https://github.com/J4NIEL/JANIEL-MOTEL/releases/download/v1.0.1/janiel-motel.zip"
 }
