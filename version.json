@@ -1,9 +1,11 @@
 {
-  "version": "1.2.0",
-  "changelog": [
+    "version": "1.2.0",
+    "download": "https://keymaster.fivem.net/",
+    "changelog": {
+        "1.2.0": [
     "Initial release",
     "Added auto-renewal system",
     "Added boss management system"
-        ],
+        ]
     }
 }
